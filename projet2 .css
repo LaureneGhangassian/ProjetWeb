@@ -1,0 +1,37 @@
+h1 
+{
+	background-color : pink;
+	font-size: 45pt ;
+	text-align: center;
+}
+
+body 
+{
+	background-color :  grey;
+}
+
+img
+{
+	width: 200px;
+	height: 200px;
+	margin-left: 95pt;
+	
+}
+a
+{
+	font-size: 20pt ;
+	margin-left: 25pt;
+}
+
+p
+{
+	font-size: 15pt ;
+	margin-left: 100pt;
+	color : white;
+}
+
+h2
+{
+	margin-top: 250pt;
+	margin-left: 1000pt;
+}
