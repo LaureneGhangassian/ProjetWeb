@@ -21,6 +21,7 @@ div
 {
 	
 	margin-left: 1250pt;
+	font-size: 20pt ;
 }
 
 img 
@@ -34,6 +35,10 @@ img
 header
 {
 	margin-left: 100pt;
-	
-	
+}
+
+a
+{
+	font-size: 20pt ;
+	margin-left: 25pt;
 }
