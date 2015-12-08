@@ -5,7 +5,35 @@ h1
 	text-align: center;
 }
 
+body 
+{
+	background-color :  grey;
+}
+
 p 
 {
 	font-size: 25pt ;
+	margin-left: 220pt;
+	
+}
+
+div
+{
+	
+	margin-left: 1250pt;
+}
+
+img 
+{
+	width: 200px;
+	height: 200px;
+	margin-left: 220pt;
+	
+}
+
+header
+{
+	margin-left: 100pt;
+	
+	
 }
