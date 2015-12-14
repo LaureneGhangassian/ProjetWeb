@@ -32,6 +32,19 @@ p
 
 h2
 {
-	margin-top: 250pt;
-	margin-left: 1000pt;
+	margin-top: 150pt;
+	margin-left: 980pt;
 }
+button 
+{
+	margin-left: 980pt;
+	
+}
+
+div
+{
+	font-size: 25pt ;
+	color : yellow;
+	margin-top: 25pt;
+}
+
