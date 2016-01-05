@@ -1,44 +1,46 @@
-h1 
-{
-	background-color : pink;
-	font-size: 45pt ;
-	text-align: center;
-}
+@media all and (max-width: 1280px);
 
-body 
-{
-	background-color :  grey;
-}
+	h1 
+	{
+		background-color : pink;
+		font-size: 45pt ;
+		text-align: center;
+	}
 
-p 
-{
-	font-size: 25pt ;
-	margin-left: 220pt;
+
+	body 
+	{
+		background-color :  grey;
+	}
+
+	p 
+	{
+		font-size: 25pt ;
+		margin-left: 220pt;
+	}
 	
-}
-
-form
-{
+	form
+	{
 	
-	margin-left: 1080pt;
-	font-size: 20pt ;
-}
+		margin-left: 1080pt;
+		font-size: 20pt ;
+	}
 
-img 
-{
-	width: 200px;
-	height: 200px;
-	margin-left: 220pt;
+	img 
+	{
+		width: 200px;
+		height: 200px;
+		margin-left: 220pt;
 	
-}
+	}
 
-header
-{
-	margin-left: 100pt;
-}
+	header
+	{
+		margin-left: 100pt;
+	}
 
-a
-{
-	font-size: 20pt ;
-	margin-left: 25pt;
-}
+	a
+	{
+		font-size: 20pt ;
+		margin-left: 25pt;
+	}
