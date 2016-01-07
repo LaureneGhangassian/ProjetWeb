@@ -1,4 +1,4 @@
-@media all and (max-width: 1280px);
+
 
 	h1 
 	{
@@ -44,3 +44,7 @@
 		font-size: 20pt ;
 		margin-left: 25pt;
 	}
+@media (orientation:portrait)
+{
+	font-size: 25pt ;
+}
